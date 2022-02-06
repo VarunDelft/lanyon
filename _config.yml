@@ -1,7 +1,7 @@
 # Setup
-title:               Quiz Blog
-tagline:             'A Jekyll theme'
-description:         'ABC'
+title:               Fact Stack
+tagline:             'Unraveling interesting stories that shaped the world we live in!'
+description:         ''
 url:                 https://varundelft.github.io
 baseurl:             'quiz-blog'
 paginate:            5
